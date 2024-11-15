@@ -1,0 +1,7 @@
+1 Aufgabe: Ein Würfel wird einmal geworfen. Wie groß ist die Wahrscheinlichkeit, dass eine Zahl größer als 1 geworfen wird?
+
+2. Aufgabe: Wie groß ist die Wahrscheinlichkeit, dass der Würfel auf einer Kante stehen bleibt?
+ 
+3. Aufgabe: Wie groß ist die Wahrscheinlichkeit, mit einem Wurf mit zwei Würfeln zwei Einsen zu werfen?
+
+4. Aufgabe: Wie groß ist beim Wurf mit 2 Würfeln die Wahrscheinlichkeit, dass eine 1 und eine 2 geworfen wird?
